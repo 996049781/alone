@@ -1,0 +1,6 @@
+framework module CHCoursel {
+  umbrella header "CHCoursel.h"
+
+  export *
+  module * { export * }
+}
